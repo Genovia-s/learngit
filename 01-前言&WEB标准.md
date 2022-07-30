@@ -15,7 +15,7 @@ typora-copy-images-to: media
 
 
 
-# 课程安排
+
 
 <img src="media/kec.png" >
 
